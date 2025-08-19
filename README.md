@@ -153,4 +153,4 @@ Ujaan Majumder
 GitHub: https://github.com/pabloujaan2k3
 
 📄 License
-This project is for educational purposes. Dataset sourced from Kaggle under [mention license if applicable].
+This project is for educational purposes. Dataset sourced from Kaggle.
